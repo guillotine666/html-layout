@@ -30,18 +30,14 @@ header {
   vertical-align: top;
 }
 
-main {
-  margin-bottom: 15px;
-}
-
-.ad-left,
-.ad-right {
+.block-left,
+.block-right {
   display: inline-block;
   width: 15%;
   padding: 10px;
 }
 
-.ad-left div:first-child {
+.block-left div:first-child {
   margin-bottom: 15px;
 }
 
